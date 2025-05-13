@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'Cantidad de dinero que deseas ahorrar'
+5
+1
+6
+dinero
+6
+2
+3
+acu
+1
+0
+4
+dias
+1
+0
+9
+1
+11
+acu<dinero 
+4
+1
+51
+'Digite la cantidad de dinero que va a ahorrar hoy'
+5
+1
+4
+cant
+6
+2
+3
+acu
+8
+acu+cant
+4
+dias
+6
+dias+1
+11
+4
+1
+21
+'Llegaste a la meta' 
+4
+1
+27
+'Cantidad de dias : ', dias
+1
