@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+mayores
+1
+0
+7
+menores
+1
+0
+5
+total
+1
+0
+9
+1
+10
+total < 20
+4
+1
+18
+'Digite su edad ' 
+5
+1
+4
+edad
+7
+0
+1
+10
+edad >=18 
+6
+2
+7
+menores
+9
+menores+1
+1
+t
+12
+menores*5000
+4
+1
+57
+'Dinero acumulado de las personas menores de edad : ' , t
+13
+6
+2
+7
+mayores
+9
+mayores+1
+1
+T
+13
+10000*mayores
+4
+1
+57
+'Dinero acumulado de las personas mayores de edad : ' , T
+13
+6
+1
+5
+total
+15
+menores+mayores
+4
+1
+123
+'Total de personas menores de edad: ', menores , '                        Total de personas mayores de edad: ', mayores    
+11
+1

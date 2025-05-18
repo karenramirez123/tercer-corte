@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+interes
+4
+0.05
+3
+mes
+1
+0
+4
+1
+30
+'Digite el valor del prestamo'
+5
+1
+4
+pres
+9
+1
+8
+pres > 0
+4
+1
+34
+'Digite el valor de la cuota fija'
+5
+1
+5
+cuota
+6
+3
+9
+inter_mes
+13
+cuota*interes
+4
+pres
+26
+pres-  (inter_mes + cuota)
+3
+mes
+5
+mes+1
+4
+1
+62
+'Dinero faltante para terminar de pagar el prestamo : ' , pres
+11
+4
+1
+48
+'Cantidad de meses para pagar el prestamo ', mes
+1

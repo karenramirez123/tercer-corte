@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+tarj
+6
+300000
+4
+1
+191
+'1) Retirar ' , '                                                                           2) Consignar ', '                                                                         3) Salir'
+5
+1
+3
+opc
+9
+1
+7
+opc !=3
+7
+0
+1
+5
+opc=1
+4
+1
+20
+'Valor a consignar' 
+5
+1
+6
+consig
+6
+1
+4
+tarj
+11
+tarj+consig
+13
+4
+1
+17
+'Valor a retirar'
+5
+1
+5
+valor
+7
+0
+1
+10
+valor>tarj
+6
+1
+4
+tarj
+10
+tarj-valor
+13
+4
+1
+35
+'Dinero insuficiente en la tarjeta'
+13
+13
+4
+1
+34
+'Dinero en la tarjeta es: ' , tarj
+4
+1
+191
+'1) Retirar ' , '                                                                           2) Consignar ', '                                                                         3) Salir'
+5
+1
+3
+opc
+11
+1
